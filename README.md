@@ -34,7 +34,7 @@
  - MySQL2
  - Sequelize
  - Dotenv
- - Postman
+ - Postman OR Insomnia
 
  <!-- ## Deployed Link on Heroku: 
  - https://tiffyalva-e-commerce-back-end.herokuapp.com/ -->
