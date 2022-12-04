@@ -1,16 +1,19 @@
 ## E-commerce-back-end 
 
+ ## About:
+ - A back end for users/managers e-commerce website that uses the latest technologies so that their company can compete with other e-commerce companies.
 
  ## Description:
- -  Build the back end for an e-commerce site.
- - This application allow users to update, view, add, and remove employees by using MYSQL, JavaScript and Node.js.
+ - E-commerce platforms provide a suit of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites
+ - I have built the back end for an e-commmerce site using a working Express.js API and configuring it to use Sequelize to interact with a MySQL database. 
+ - I have added a link to a demo below with a walkthrough of the functionality of the backend provided. 
+ - The video demonstrates different http methods --such as the GET, PUT, POST, and DELETE methods-- being tested in Postman.
 
- ## Summary:
- Build an E-Commerce backend application using by Node.js, Express, JavaScript, MySQL2, Sequelize.
+ 
 
  ## Table of Contents:
  * [Description](#description)
- * [Summary](#summary)
+ * [About](#about)
  * [Visuals](#visuals)
  * [Tools](#tools-used)
  * [Usage](#usage)
@@ -35,6 +38,7 @@
  - Sequelize
  - Dotenv
  - Postman OR Insomnia
+ - JSON
 
  <!-- ## Deployed Link on Heroku: 
  - https://tiffyalva-e-commerce-back-end.herokuapp.com/ -->
