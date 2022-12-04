@@ -21,7 +21,10 @@
  * [Demostration Video](#demo)
 
  ## Visuals: 
+ - After running "npm run start".
  ![](./assets/images/e-commerce-mockup.jpg)
+
+ - Demo Mockup with Postman
  ![](./assets/images/demo-postman-mockup.jpg)
 
  ## Tools Used:
